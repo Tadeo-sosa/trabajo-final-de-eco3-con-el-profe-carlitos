@@ -18,7 +18,8 @@
             border: none;
             border-radius: 8px;
         }
-    </style></head>
+    </style>
+</head>
 <body>
 
     <h1>Formulario de comidas deliciosas</h1>
